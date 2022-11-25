@@ -1,0 +1,43 @@
+#firstName, #lastName, #email, #password{
+    width: 300px !important;
+}
+#todoInp{
+    width: 300px !important;
+    height: 50px !important;
+    margin-bottom: 10px;
+}
+.row h1{
+    font-size: 50px;
+    color: #CAD3C8;
+}
+body{
+    background-image: url('images/mymind-XUlsF9LYeVk-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.lebal {
+    list-style: none;
+}
+.div{
+    display: flex;
+}
+.ki{
+    margin-left: 10px;
+    width: 90px;
+    height: 45px;
+}
+.p-1{
+    display: inline-flex;
+}
+/* .gm{ */
+    /* width: 150px;
+    height: 50px;
+    padding: 10px;
+}
+.am {
+    margin-left: 10px;
+    width: 100px;
+    height: 45px;
+} */
